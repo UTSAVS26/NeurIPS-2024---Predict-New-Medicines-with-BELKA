@@ -64,9 +64,8 @@ Here, we display some results, visualizations, and metrics achieved during the c
 
 ## Contributors
 - **Utsav Singhal** - [GitHub](https://github.com/UTSAVS26)
-<!--
-- **Collaborator Name** - [GitHub](https://github.com/collaborator-username)
--->
+
+- **Nandani Daga** - [GitHub](https://github.com/Nandanidaga)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
